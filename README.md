@@ -1,2 +1,4 @@
 # SILENT-SENTINELS-FOR-BEGINNERS-
 In a world that’s more connected than ever, every click, every keystroke, every byte of data carries the weight of trust. 
+This project is my journey into the heart of cybersecurity—learning, growing, and building the skills needed to defend the digital frontier. It’s about more than just code and firewalls; it’s about standing guard over the spaces we share, the information we hold dear, and the privacy we deserve.
+As a beginner, I’m stepping into the world of cybersecurity with the belief that even the smallest actions can have the greatest impact. From securing a website to encrypting sensitive data, every line of code written is a step toward a safer, more resilient digital landscape. This project is not just about defense, but about empowering others to feel safe, to trust the systems that make our world go round.
