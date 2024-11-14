@@ -1,4 +1,5 @@
-# SILENT-SENTINELS-FOR-BEGINNERS
+# SILENT-SENTINELS-FOR-BEGINNERS![Silent Sentinels](https://github.com/user-attachments/assets/8c570881-1ec2-48f9-85ce-093f5b3766b1)
+
 
 Welcome to Silent Sentinels, a collection of beginner-friendly cybersecurity projects designed to help you get hands-on experience with real-world security concepts and tools. This repository focuses on providing easy-to-understand scripts, explanations, and automations that make cybersecurity engaging and fun to learn!
 
