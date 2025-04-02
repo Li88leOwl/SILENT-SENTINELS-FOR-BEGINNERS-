@@ -1,8 +1,10 @@
-# ----------------------------------------------------------
-# 1st Peter 4:10 - "Each of you should use whatever gift you 
-# have received to serve others, as faithful stewards of God's 
-# grace in its various forms."
-# ----------------------------------------------------------
+"""
+----------------------------------------------------------
+ 1st Peter 4:10 - Each of you should use whatever gift you 
+ have received to serve others, as faithful stewards of God's 
+ grace in its various forms.
+----------------------------------------------------------
+"""
 
 import platform
 import subprocess
